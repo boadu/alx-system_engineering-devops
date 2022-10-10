@@ -1,1 +1,2 @@
-Display the content of
+#!/bin/bash
+cat /etc/passwd/etc/hosts
